@@ -1,6 +1,10 @@
 [DEPRECATED] substeps-api [![Build Status](https://travis-ci.org/G2G3Digital/substeps-api.svg)](https://travis-ci.org/G2G3Digital/substeps-api)
 ============
 
+https://img.shields.io/travis/USER/REPO/BRANCH.svg
+https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg
+https://img.shields.io/travis/USER/REPO.svg
+
 The substeps-api repository has been merged into one with other core Substep libraries. No more pull requests on the repository will be accepted.
 
 So the new home is [substeps-framework](https://github.com/G2G3Digital/substeps-framework) which now contains:
